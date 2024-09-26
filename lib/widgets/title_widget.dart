@@ -9,7 +9,7 @@ class TitleWidget extends StatelessWidget {
       'ToDo App',
       textAlign: TextAlign.center,
       style: TextStyle(
-        color: Colors.red,
+        color: Colors.blue,
         fontSize: 80,
         fontWeight: FontWeight.w100,
       ),
